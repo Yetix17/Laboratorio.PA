@@ -8,3 +8,4 @@ chatGPT::chatGPT(string pregunta, string respuesta) {
 
 chatGPT::~chatGPT() {
 }
+
