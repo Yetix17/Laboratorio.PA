@@ -9,4 +9,3 @@ typedef struct{
 } fecha;
 
 #endif //ESTRUCTURA_H
-

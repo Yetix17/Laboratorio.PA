@@ -24,5 +24,4 @@ protected:
 
 
 
-
 #endif //INFORMACION_H
