@@ -1,5 +1,4 @@
 
-
 #include "PaginaWeb.h"
 
 PaginaWeb::PaginaWeb(string titulo, string url, string texto) {

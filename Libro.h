@@ -20,5 +20,4 @@ private:
 };
 
 
-
 #endif //LIBRO_H

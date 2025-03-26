@@ -1,6 +1,7 @@
 
 #ifndef PaginaWEB_H
 #define PaginaWEB_H
+#include "Informacion.h"
 #include <string>
 
 using namespace std;
