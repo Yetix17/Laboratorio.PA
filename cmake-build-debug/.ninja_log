@@ -1,0 +1,9 @@
+# ninja log v6
+5	359	7647057486155351	CMakeFiles/untitled.dir/chatGPT.cpp.obj	b49c2bee8f1375ea
+5	352	7647058612350080	CMakeFiles/untitled.dir/PaginaWeb.cpp.obj	8c6eb7326ee85eb6
+5	396	7647058010490425	CMakeFiles/untitled.dir/Libro.cpp.obj	e7c9a7094c1686d0
+8	423	7647054593330798	CMakeFiles/untitled.dir/Informacion.cpp.obj	752b38a4bbe87ffc
+353	451	7647058615834594	untitled.exe	3eaae65fccd0c3c7
+2	204	7647074054846858	build.ninja	bf9c63a32c87d369
+20	74	7647053483066259	CMakeFiles/untitled.dir/Estudiante.cpp.obj	b46065e3ce4521bf
+4	445	7647054529540029	CMakeFiles/untitled.dir/main.cpp.obj	7a6f60fc5e9d1d68
