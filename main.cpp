@@ -13,4 +13,3 @@ int main() {
     cout << info->toString();
     return 0;
 }
-
