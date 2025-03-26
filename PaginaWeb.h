@@ -1,14 +1,13 @@
 
 #ifndef PaginaWEB_H
 #define PaginaWEB_H
-#include "Informacion.h"
 #include <string>
 
 using namespace std;
 
 
 
-class PaginaWeb:public Informacion {
+class PaginaWeb {
 public:
     PaginaWeb(string, string, string);
     virtual ~PaginaWeb();
