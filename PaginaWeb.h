@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-class PaginaWeb {
+class PaginaWeb:public Informacion {
 public:
     PaginaWeb(string, string, string);
     virtual ~PaginaWeb();

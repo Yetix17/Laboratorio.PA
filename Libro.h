@@ -10,12 +10,12 @@ using namespace std;
 
 class Libro: public Informacion {
 public:
-    Libro(string titulo, set<string*> autores, string resumen);
+    Libro(string titulo, string autores, string resumen);
     virtual ~Libro();
     string toString();
 private:
     string titulo;
-    set<string>autores;
+    string autores;
     string resumen;
 };
 

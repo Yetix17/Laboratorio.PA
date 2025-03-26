@@ -1,7 +1,7 @@
 
 #include "PaginaWeb.h"
 
-PaginaWeb::PaginaWeb(string titulo, string url, string texto) {
+PaginaWeb::PaginaWeb(string titulo, string url, string texto):Informacion(id, date) {
     this->titulo = titulo;
     this->url = url;
     this->texto = texto;
