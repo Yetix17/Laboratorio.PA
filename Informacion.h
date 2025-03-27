@@ -8,7 +8,6 @@
 using namespace std;
 
 
-
 class Informacion {
 public:
     Informacion(int, fecha);

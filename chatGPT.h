@@ -5,7 +5,6 @@
 using namespace std;
 
 
-
 class chatGPT {
 public:
     chatGPT(string, string);

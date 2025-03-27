@@ -20,5 +20,4 @@ private:
     Informacion* guardado_por;
 };
 
-
 #endif
