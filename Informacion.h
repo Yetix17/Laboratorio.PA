@@ -23,4 +23,4 @@ protected:
 };
 
 
-#endif //INFORMACION_H
+#endif

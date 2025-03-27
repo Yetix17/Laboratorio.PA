@@ -5,6 +5,7 @@
 using namespace std;
 
 
+
 class chatGPT {
 public:
     chatGPT(string, string);
@@ -17,5 +18,4 @@ private:
 };
 
 
-
-#endif //CHATGPT_H
+#endif

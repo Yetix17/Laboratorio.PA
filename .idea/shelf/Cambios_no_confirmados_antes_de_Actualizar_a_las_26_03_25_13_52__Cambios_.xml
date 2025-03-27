@@ -1,0 +1,62 @@
+<changelist name="Cambios_no_confirmados_antes_de_Actualizar_a_las_26_03_25_13_52_[Cambios]" date="1743007931777" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Cambios_no_confirmados_antes_de_Actualizar_a_las_26_03_25_13_52_[Cambios]/shelved.patch" />
+  <option name="DESCRIPTION" value="Cambios no confirmados antes de Actualizar a las 26/03/25 13:52 [Cambios]" />
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/a.exe" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Cambios_no_confirmados_antes_de_Actualizar_a_las_26_03_25_13_52_[Cambios]/a.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/build.ninja" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/chatGPT.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/.cmake/api/v1/query/cache-v2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/PaginaWeb.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/a.exe" />
+    <option name="AFTER_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/a.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Cambios_no_confirmados_antes_de_Actualizar_a_las_26_03_25_13_52_[Cambios]/a1.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/Informacion.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/rules.ninja" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/.name" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/Libro.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/cmake.check_cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/.cmake/api/v1/query/codemodel-v2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/CMakeFiles/untitled.dir/Estudiante.cpp.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="cmake-build-debug/.cmake/api/v1/query/toolchains-v1" />
+  </binary>
+</changelist>
