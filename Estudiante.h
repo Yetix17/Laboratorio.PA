@@ -14,6 +14,7 @@ public:
     Estudiante();//mantenemos 2 constructores, uno por defecto vacio que nos permite asignarle valor mas tarde a las variables
     Estudiante(string nombre, int ci, string email);//agrego constructor con parametros
     virtual ~Estudiante();
+      string toString();
 private:
     string nombre;
     int ci;
