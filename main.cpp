@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Estudiante.h"
 #include "Informacion.h"
 #include "PaginaWeb.h"
 #include "chatGPT.h"
@@ -46,6 +47,6 @@ int main() {
     cout << gpt->toString();
     cout << gpt2->toString();
     cout << librito->toString();
-    
+
     return 0;
 }
