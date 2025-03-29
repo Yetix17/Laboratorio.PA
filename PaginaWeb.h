@@ -1,4 +1,3 @@
-
 #ifndef PaginaWEB_H
 #define PaginaWEB_H
 #include <string>
@@ -10,7 +9,7 @@ using namespace std;
 
 class PaginaWeb: public Informacion {
 public:
-    PaginaWeb(string, string, string);
+    PaginaWeb(int, fecha, string, string, string);
     virtual ~PaginaWeb();
     string toString();
 private:

@@ -10,7 +10,7 @@ using namespace std;
 
 class Libro: public Informacion {
 public:
-    Libro(string titulo, string autores, string resumen);
+    Libro(int, fecha, string titulo, string autores, string resumen);
     virtual ~Libro();
     string toString();
 private:
