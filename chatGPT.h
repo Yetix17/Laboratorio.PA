@@ -1,13 +1,14 @@
 #include <string>
+#include "Informacion.h"
 #ifndef CHATGPT_H
 #define CHATGPT_H
 
 using namespace std;
 
 
-class chatGPT {
+class chatGPT: public Informacion {
 public:
-    chatGPT(string, string);
+    chatGPT(int, fecha, string, string);
     virtual ~chatGPT();
     string toString();
 private:
