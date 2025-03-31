@@ -14,5 +14,5 @@ Estudiante::~Estudiante() {
 //
 
 string Estudiante::toString() {
-    return "Nombre :" + nombre + "\n" + "CI: " + to_string(ci) + "\n" + "email: "+ email ;
+    return "Nombre: " + nombre + "\n" + "CI: " + to_string(ci) + "\n" + "email: "+ email ;
 }
