@@ -12,5 +12,5 @@ Libro::~Libro() {
 }
 
 string Libro::toString() {
-    return ("\n" + Informacion::toString() + "\n" + "título: " + this->titulo + "\n" + "autores: " + this->autores + "\n" + "resumen: " + this->resumen + "\n");
+    return ("\n" + Informacion::toString() + "\n" + "titulo: " + this->titulo + "\n" + "autores: " + this->autores + "\n" + "resumen: " + this->resumen + "\n");
 }

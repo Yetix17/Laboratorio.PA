@@ -11,5 +11,5 @@ PaginaWeb::~PaginaWeb() {
 }
 
 string PaginaWeb::toString() {
-    return ("\n" +  Informacion::toString() + "\n" + "título: " + this->titulo + "\n" + "url: " + this->url + "\n" + "texto: " + this->texto + "\n");
+    return ("\n" +  Informacion::toString() + "\n" + "titulo: " + this->titulo + "\n" + "url: " + this->url + "\n" + "texto: " + this->texto + "\n");
 }
