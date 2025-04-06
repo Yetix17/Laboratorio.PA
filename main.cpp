@@ -70,5 +70,4 @@ int main() {
     gpt->mostrarEstudiantes();
     return 0;
 
-
 }
