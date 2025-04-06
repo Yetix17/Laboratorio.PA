@@ -69,5 +69,6 @@ int main() {
     // Mostrar qué estudiantes han guardado cada información
     librito->mostrarEstudiantes();
     gpt->mostrarEstudiantes();
+
     return 0;
 }
