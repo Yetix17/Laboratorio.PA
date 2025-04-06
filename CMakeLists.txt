@@ -17,4 +17,6 @@ add_executable(Laboratorio
     Libro.h
     main.cpp
     PaginaWeb.cpp
-    PaginaWeb.h)
+    PaginaWeb.h
+        DTInfoEstudiante.cpp
+        DTInfoEstudiante.h)
