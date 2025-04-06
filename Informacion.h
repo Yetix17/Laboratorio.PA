@@ -27,5 +27,4 @@ protected:
     vector<Estudiante*> estuds;// Lista de estudiantes vinculados
 };
 
-
 #endif

@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/thiag/OneDrive/Escritorio/PA-LAB/Laboratorio.PA
+# Install script for directory: C:/Users/Usuario/Desktop/Proyect/Laboratorio.PA
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/thiag/OneDrive/Escritorio/PA-LAB/Laboratorio.PA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/Usuario/Desktop/Proyect/Laboratorio.PA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
