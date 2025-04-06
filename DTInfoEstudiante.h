@@ -23,6 +23,9 @@ public:
     // Compara dos objetos y los ordena
     bool operator<(const DTInfoEstudiante& otro) const;
 
+    // Recorre un conjunto de objetos de tipo Información
     set<DTInfoEstudiante> infoPolimorfismo(vector<Informacion*> infos);
+    set<DTInfoEstudiante> resultados;
+
 };
 #endif //DTINFOESTUDIANTE_H
