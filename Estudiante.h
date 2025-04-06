@@ -20,6 +20,7 @@ public:
     void agregarInformacion(Informacion* info);// Agregar relación con Informacion
     void listarInfo();
 
+
     string toString();
 
 private:
