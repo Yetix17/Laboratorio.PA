@@ -1,11 +1,15 @@
 # ninja log v6
-398	537	7647103255715816	untitled.exe	3eaae65fccd0c3c7
 23	722	7656605990364453	CMakeFiles/Laboratorio.dir/Estudiante.cpp.obj	dfdbe72f8737fef1
-2	204	7656609242695768	build.ninja	bf9c63a32c87d369
+398	537	7647103255715816	untitled.exe	3eaae65fccd0c3c7
 32	553	7656605990459690	CMakeFiles/Laboratorio.dir/Libro.cpp.obj	b9d4721f28caffba
+2	204	7656663909424762	build.ninja	bf9c63a32c87d369
 2	8	7648022116231986	clean	a912d6e803ee3202
 18	549	7656605990309289	CMakeFiles/Laboratorio.dir/chatGPT.cpp.obj	874f79237aa4f3bd
 27	721	7656605990404428	CMakeFiles/Laboratorio.dir/Informacion.cpp.obj	98ab1a150a39e2a6
 38	690	7656605990509711	CMakeFiles/Laboratorio.dir/main.cpp.obj	c9f5159ed2f35d42
 43	546	7656605990565158	CMakeFiles/Laboratorio.dir/PaginaWeb.cpp.obj	db3674d1dbd6dab
 722	892	7656605997357224	Laboratorio.exe	c88381524fbde06a
+2	322	7656663909424762	build.ninja	2b31a838e636cbd3
+44	464	7656663910875583	CMakeFiles/Laboratorio.dir/DTInfoEstudiante.cpp.obj	18dd72dceea0cf49
+40	470	7656663910823694	CMakeFiles/Laboratorio.dir/main.cpp.obj	c9f5159ed2f35d42
+470	599	7656663915133542	Laboratorio.exe	21c101474d555131

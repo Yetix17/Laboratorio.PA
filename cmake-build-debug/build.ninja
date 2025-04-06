@@ -98,13 +98,6 @@ build CMakeFiles/Laboratorio.dir/DTInfoEstudiante.cpp.obj: CXX_COMPILER__Laborat
   OBJECT_DIR = CMakeFiles\Laboratorio.dir
   OBJECT_FILE_DIR = CMakeFiles\Laboratorio.dir
 
-build CMakeFiles/Laboratorio.dir/DTInfoEstudiante.c.obj: C_COMPILER__Laboratorio_unscanned_Debug C$:/Users/Usuario/Documents/Proyect/Laboratorio.PA/DTInfoEstudiante.c || cmake_object_order_depends_target_Laboratorio
-  DEP_FILE = CMakeFiles\Laboratorio.dir\DTInfoEstudiante.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/Usuario/Documents/Proyect/Laboratorio.PA/.
-  OBJECT_DIR = CMakeFiles\Laboratorio.dir
-  OBJECT_FILE_DIR = CMakeFiles\Laboratorio.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Laboratorio
@@ -113,7 +106,7 @@ build CMakeFiles/Laboratorio.dir/DTInfoEstudiante.c.obj: C_COMPILER__Laboratorio
 #############################################
 # Link the executable Laboratorio.exe
 
-build Laboratorio.exe: CXX_EXECUTABLE_LINKER__Laboratorio_Debug CMakeFiles/Laboratorio.dir/chatGPT.cpp.obj CMakeFiles/Laboratorio.dir/Estudiante.cpp.obj CMakeFiles/Laboratorio.dir/Informacion.cpp.obj CMakeFiles/Laboratorio.dir/Libro.cpp.obj CMakeFiles/Laboratorio.dir/main.cpp.obj CMakeFiles/Laboratorio.dir/PaginaWeb.cpp.obj CMakeFiles/Laboratorio.dir/DTInfoEstudiante.cpp.obj CMakeFiles/Laboratorio.dir/DTInfoEstudiante.c.obj
+build Laboratorio.exe: CXX_EXECUTABLE_LINKER__Laboratorio_Debug CMakeFiles/Laboratorio.dir/chatGPT.cpp.obj CMakeFiles/Laboratorio.dir/Estudiante.cpp.obj CMakeFiles/Laboratorio.dir/Informacion.cpp.obj CMakeFiles/Laboratorio.dir/Libro.cpp.obj CMakeFiles/Laboratorio.dir/main.cpp.obj CMakeFiles/Laboratorio.dir/PaginaWeb.cpp.obj CMakeFiles/Laboratorio.dir/DTInfoEstudiante.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Laboratorio.dir
