@@ -57,6 +57,7 @@ int main() {
     est->agregarInformacion(pag2);
     est->agregarInformacion(librito);
 
+
     est2->agregarInformacion(librito);
     est2->agregarInformacion(pag);
     est2->agregarInformacion(gpt);
