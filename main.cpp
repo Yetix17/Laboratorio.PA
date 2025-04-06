@@ -70,4 +70,5 @@ int main() {
     gpt->mostrarEstudiantes();
 //chupen todos trolos
     return 0;
+
 }
