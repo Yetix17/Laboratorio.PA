@@ -68,7 +68,6 @@ int main() {
     // Mostrar qué estudiantes han guardado cada información
     librito->mostrarEstudiantes();
     gpt->mostrarEstudiantes();
-//chupen todos trolos
     return 0;
 
 }
