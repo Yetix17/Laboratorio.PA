@@ -29,7 +29,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5a8fca8-7a62-4939-9b85-eb396ed7d614" name="Changes" comment="Ejercicio H" />
+    <list default="true" id="c5a8fca8-7a62-4939-9b85-eb396ed7d614" name="Changes" comment="Ejercicio H">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTInfoEstudiante.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DTInfoEstudiante.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTInfoEstudiante.h" beforeDir="false" afterPath="$PROJECT_DIR$/DTInfoEstudiante.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +90,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Documents/Proyect/Laboratorio.PA/main.cpp",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743957075531</updated>
-      <workItem from="1743957077395" duration="5327000" />
+      <workItem from="1743957077395" duration="7016000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio H">
       <option name="closed" value="true" />
@@ -135,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743963455316</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio H">
+      <option name="closed" value="true" />
+      <created>1743963592442</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743963592442</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

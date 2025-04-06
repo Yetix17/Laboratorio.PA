@@ -26,6 +26,5 @@ public:
     // Recorre un conjunto de objetos de tipo Información
     set<DTInfoEstudiante> infoPolimorfismo(vector<Informacion*> infos);
     set<DTInfoEstudiante> resultados;
-
 };
 #endif //DTINFOESTUDIANTE_H
