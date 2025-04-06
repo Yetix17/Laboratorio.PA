@@ -51,7 +51,6 @@ int main() {
   //  cout << est2->toString();
   //  info->agregarEstudiante(est);//Asocio estudiante con informacion
 
-
     // Registrar relaciones
     est->agregarInformacion(info);
     est->agregarInformacion(pag2);
