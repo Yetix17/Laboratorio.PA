@@ -62,6 +62,7 @@ int main() {
     est2->agregarInformacion(pag);
     est2->agregarInformacion(gpt);
 
+
     // Mostrar qué informaciones ha guardado cada estudiante
     est->listarInfo();
     est2->listarInfo();
