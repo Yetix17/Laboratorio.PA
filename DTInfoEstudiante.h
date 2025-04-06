@@ -5,6 +5,9 @@
 #include <string>
 #include <iostream>
 #include <set>
+#include <vector>
+
+#include "Informacion.h"
 using namespace std;
 
 class DTInfoEstudiante {
@@ -15,15 +18,11 @@ public:
     // Constructor
     DTInfoEstudiante(string tituloInfo, string nombreEstudiante);
     // Muestra el contenido
-    void mostrar() const {
-        cout << "Info: " << tituloInfo << "Leído por: " << nombreEstudiante << endl;
-    }
+    void mostrar() const;
+
     // Compara dos objetos y los ordena
-    bool operator<(const DTInfoEstudiante& otro) const {
-        if (tituloInfo != otro.tituloInfo)
-            return tituloInfo < otro.tituloInfo;
-        return nombreEstudiante < otro.nombreEstudiante;
-    }
-    set<DTInfoEstudiante>
+    bool operator<(const DTInfoEstudiante& otro) const;
+
+    set<DTInfoEstudiante> infoPolimorfismo(vector<Informacion*> infos);
 };
 #endif //DTINFOESTUDIANTE_H
