@@ -7,8 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="RiderCppLiveTemplatesSettings" type="string" />
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -30,14 +28,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a4e1fa-db27-466e-913f-06ce46b43c0e" name="Cambios" comment="a">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Laboratorio.dir/chatGPT.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Laboratorio.dir/chatGPT.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Laboratorio.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Laboratorio.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-    </list>
+    <list default="true" id="57685cd6-5982-4d0e-a1f9-d1f1b332f09e" name="Changes" comment="gay" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,354 +40,99 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="KEEP" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Yetix17&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "WoKeURU"
   }
-}</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="ccf23556-fd95-4986-9d44-13a1b411a5b7" />
-  </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/thiagarto/PA-LAB.git&quot;,
-    &quot;accountId&quot;: &quot;ccf23556-fd95-4986-9d44-13a1b411a5b7&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Yetix17/Laboratorio.PA.git",
+    "accountId": "c6e96a42-bc86-48f0-a505-b1f58730d5e8"
   }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Estudiante.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Estudiante.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informacion.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Informacion.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Libro.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Libro.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PaginaWeb.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/PaginaWeb.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/lugam/CLionProjects/Laboratorio/chatGPT.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/chatGPT.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/lugam/CLionProjects/Laboratorio/chatGPT.h" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
-  </component>
+}]]></component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
-    <option name="minorVersion" value="3.4" />
+    <option name="minorVersion" value="3.5" />
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2urEyaMpkKeUW2DZJoImYcDJ3n1" />
+  <component name="ProjectId" id="2vMKb6Fen3Z0QDXRifcMPDx2lwF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Aplicación CMake.Laboratorio.executor&quot;: &quot;Debug&quot;,
-    &quot;Aplicación CMake.untitled.executor&quot;: &quot;Debug&quot;,
-    &quot;Archivo C/C++.main.cpp.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lugam/CLionProjects/Laboratorio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lugam/CLionProjects/untitled/main.cpp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/Desktop/Proyect/Laboratorio.PA/main.cpp",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\lugam\CLionProjects\Laboratorio" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lugam\CLionProjects\Laboratorio" />
-      <recent name="C:\Users\lugam\CLionProjects\Laboratorio\cmake-build-debug" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Aplicación CMake.Laboratorio">
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Laboratorio" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laboratorio" TARGET_NAME="Laboratorio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Laboratorio" RUN_TARGET_NAME="Laboratorio">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Laboratorio" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="main.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Aplicación CMake.Laboratorio" />
-      <item itemvalue="Archivo C/C++.main.cpp" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Archivo C/C++.main.cpp" />
-      </list>
-    </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="nivel de aplicación" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Tarea por defecto">
-      <changelist id="c0a4e1fa-db27-466e-913f-06ce46b43c0e" name="Cambios" comment="" />
-      <created>1742998547970</created>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57685cd6-5982-4d0e-a1f9-d1f1b332f09e" name="Changes" comment="" />
+      <created>1743949570982</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742998547970</updated>
-      <workItem from="1742998549125" duration="249000" />
-      <workItem from="1742998810918" duration="198000" />
-      <workItem from="1742999017091" duration="390000" />
-      <workItem from="1742999415206" duration="328000" />
-      <workItem from="1742999754567" duration="248000" />
-      <workItem from="1743000034969" duration="52000" />
-      <workItem from="1743000093794" duration="325000" />
-      <workItem from="1743000459745" duration="219000" />
-      <workItem from="1743000739255" duration="89000" />
-      <workItem from="1743000858366" duration="76000" />
-      <workItem from="1743000964562" duration="247000" />
-      <workItem from="1743001269187" duration="444000" />
-      <workItem from="1743001753357" duration="22000" />
-      <workItem from="1743001784121" duration="7000" />
-      <workItem from="1743001801679" duration="22000" />
-      <workItem from="1743001842128" duration="137000" />
-      <workItem from="1743002008578" duration="288000" />
-      <workItem from="1743002305341" duration="75000" />
-      <workItem from="1743002385435" duration="7000" />
-      <workItem from="1743002398804" duration="22000" />
-      <workItem from="1743002461204" duration="582000" />
-      <workItem from="1743004204415" duration="159000" />
-      <workItem from="1743004370640" duration="3000" />
-      <workItem from="1743004404811" duration="5000" />
-      <workItem from="1743004421385" duration="36000" />
-      <workItem from="1743004461509" duration="2000" />
-      <workItem from="1743004475784" duration="1009000" />
-      <workItem from="1743005494575" duration="658000" />
-      <workItem from="1743006261723" duration="468000" />
-      <workItem from="1743006744060" duration="1640000" />
-      <workItem from="1743094122573" duration="26000" />
-      <workItem from="1743094180030" duration="368000" />
-      <workItem from="1743095537777" duration="7000" />
-      <workItem from="1743097086670" duration="9000" />
-      <workItem from="1743097368374" duration="79000" />
-      <workItem from="1743097454684" duration="25000" />
-      <workItem from="1743097496939" duration="44000" />
-      <workItem from="1743097565519" duration="942000" />
-      <workItem from="1743098527540" duration="843000" />
-      <workItem from="1743175941494" duration="930000" />
-      <workItem from="1743294878247" duration="1000" />
+      <updated>1743949570982</updated>
+      <workItem from="1743949572279" duration="306000" />
     </task>
-    <task id="LOCAL-00001" summary="a">
+    <task id="LOCAL-00001" summary="gay">
       <option name="closed" value="true" />
-      <created>1743004279029</created>
+      <created>1743949649350</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1743004279029</updated>
+      <updated>1743949649350</updated>
     </task>
-    <task id="LOCAL-00002" summary="Lab">
+    <task id="LOCAL-00002" summary="gay">
       <option name="closed" value="true" />
-      <created>1743005113815</created>
+      <created>1743949802294</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1743005113815</updated>
+      <updated>1743949802294</updated>
     </task>
-    <task id="LOCAL-00003" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743005274415</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743005274415</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743005648360</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1743005648360</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743005806961</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1743005806961</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743005851948</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1743005851948</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743006276860</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1743006276860</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Lab">
-      <option name="closed" value="true" />
-      <created>1743007149390</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007149390</updated>
-    </task>
-    <task id="LOCAL-00009" summary="a">
-      <option name="closed" value="true" />
-      <created>1743007239406</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007239406</updated>
-    </task>
-    <task id="LOCAL-00010" summary="a">
-      <option name="closed" value="true" />
-      <created>1743007406660</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007406660</updated>
-    </task>
-    <task id="LOCAL-00011" summary="a">
-      <option name="closed" value="true" />
-      <created>1743007453716</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007453716</updated>
-    </task>
-    <task id="LOCAL-00012" summary="a">
-      <option name="closed" value="true" />
-      <created>1743007503137</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007503137</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'github/master'">
-      <option name="closed" value="true" />
-      <created>1743007922522</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007922522</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'github/master'">
-      <option name="closed" value="true" />
-      <created>1743007952048</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1743007952048</updated>
-    </task>
-    <task id="LOCAL-00015" summary="a">
-      <option name="closed" value="true" />
-      <created>1743008134972</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1743008134972</updated>
-    </task>
-    <task id="LOCAL-00016" summary="a">
-      <option name="closed" value="true" />
-      <created>1743008228718</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1743008228718</updated>
-    </task>
-    <task id="LOCAL-00017" summary="a">
-      <option name="closed" value="true" />
-      <created>1743008295664</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1743008295664</updated>
-    </task>
-    <task id="LOCAL-00018" summary="a">
-      <option name="closed" value="true" />
-      <created>1743008330456</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1743008330456</updated>
-    </task>
-    <task id="LOCAL-00019" summary="a">
-      <option name="closed" value="true" />
-      <created>1743097761693</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1743097761693</updated>
-    </task>
-    <task id="LOCAL-00020" summary="a">
-      <option name="closed" value="true" />
-      <created>1743097902587</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1743097902587</updated>
-    </task>
-    <task id="LOCAL-00021" summary="a">
-      <option name="closed" value="true" />
-      <created>1743099313915</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1743099313915</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VCPKGProject">
-    <isAutomaticCheckingOnLaunch value="false" />
-    <isAutomaticFoundErrors value="true" />
-    <isAutomaticReloadCMake value="true" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab" />
-    <MESSAGE value="Merge remote-tracking branch 'github/master'" />
-    <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="gay" />
+    <option name="LAST_COMMIT_MESSAGE" value="gay" />
   </component>
 </project>

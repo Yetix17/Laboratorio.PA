@@ -51,7 +51,6 @@ int main() {
   //  cout << est2->toString();
   //  info->agregarEstudiante(est);//Asocio estudiante con informacion
 
-
     // Registrar relaciones
     est->agregarInformacion(info);
     est->agregarInformacion(pag2);
@@ -69,6 +68,7 @@ int main() {
     // Mostrar qué estudiantes han guardado cada información
     librito->mostrarEstudiantes();
     gpt->mostrarEstudiantes();
+//chupen todos trolos
     return 0;
 
 }
