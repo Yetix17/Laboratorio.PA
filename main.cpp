@@ -1,10 +1,9 @@
-#include <iostream>
+
 #include "Estudiante.h"
 #include "Informacion.h"
 #include "PaginaWeb.h"
 #include "chatGPT.h"
 #include "Libro.h"
-#include "Estudiante.h"
 
 using namespace std;
 
@@ -68,6 +67,7 @@ int main() {
     // Mostrar qué estudiantes han guardado cada información
     librito->mostrarEstudiantes();
     gpt->mostrarEstudiantes();
+
 
     return 0;
 
